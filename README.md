@@ -23,8 +23,7 @@ O objetivo principal foi aplicar os conceitos de desenvolvimento de serviços RE
 11. Testes unitários com **cobertura superior a 80%**.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Java 21git add .
-  **
+- **Java 21**
 - **Spring Boot 3**
 - **Spring Data JPA**
 - **Spring Security (Basic Auth)**
